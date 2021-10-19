@@ -1,3 +1,8 @@
+# Expense Tracker
+
+It is an expense tracking application made in React using Context API
+To view project [Click Here](https://akshatmittal61.github.io/expense-tracker)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
